@@ -1,0 +1,36 @@
+
+.nav-shortcut ul {
+    list-style-type: none;
+    
+    margin: 0;
+    padding: 30px;
+
+text-align: center;
+}
+
+.navbar  a {
+
+    text-decoration: none;
+    list-style: none;
+}
+.nav-shortcut a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    padding-left: 5cm;
+    display: inline-block;
+    
+
+}
+.nav-shortcut a:hover{
+    background-color: rgb(58, 56, 56);
+
+    
+}
+
+ .nav-shortcut li{
+
+    float:left;
+    
+ }
+
+ 
